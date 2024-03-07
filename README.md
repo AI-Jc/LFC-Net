@@ -1,2 +1,3 @@
 # LFC-Net
-Selective Large Kernel Convolution For Medical Image Segmentation 
+LFC-Net: A Lightweight Fully Convolutional
+Network for Medical Image Segmentation
